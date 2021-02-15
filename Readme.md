@@ -1,6 +1,6 @@
-#Name: Chitra Kakkar
-#Class: SEIS-610
-#Project Name: SEIS-CrazyEight 
+##Name: Chitra Kakkar
+##Class: SEIS-610
+##Project Name: SEIS-CrazyEight 
 
 #Vision:
 
