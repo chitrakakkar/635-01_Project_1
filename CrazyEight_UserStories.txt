@@ -1,0 +1,13 @@
+User Stories:
+1. As a player, I would like a game to help me to take quick decisions and become efficient. 
+2. As a player, I would like to choose how can I get rid of my cards by strategically planning the rules of the game.
+3. As a player, I should be asked if I would like to start the game or not.
+4. As a player, I would like the software to distribute each players seven cards face down.
+5. As a player, I would like the remainder of the pack is stacked face down on the table as a stock from which cards will be drawn. (#3)
+6. As a player, I would like the top card of the stock is turned face up and placed beside the stock to start the discard pile. (#4)
+7. As a player, I would like to know the current suit being played all the time.( the suit frequently changes as the game progresses)
+8. As a player, I would like to select one card and have the program displays them and then indicate if it matches the rank or suit of the previous card(#6)
+9. As a player, if the cards in my hand don't match the suit on the board, the software allows me to pick the cards from the deck of cards untill I find the match.
+10. As a player, If I play an Eight, the software allows me to nominate a suit and changes the suit display on the board to the chosen suit by the player who played an Eight.
+11. As a player, I would like the software to keep track of how quickly I get rid of my cards in handso that I know I am thinking quickly and efficiently finishing the game, possibly winning the game everytime. 
+12. As a player, I would like the software to tell me who wins the game at the end.
