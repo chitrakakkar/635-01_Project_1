@@ -46,4 +46,5 @@ data storage.  This application will, at its first release, only be a Human and 
 11. Calculate Total Points
 12. Get Players
 13. Nominate a suit.
+14. Calculate total time.
 13. End Game
