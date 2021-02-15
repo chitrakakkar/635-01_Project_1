@@ -1,20 +1,23 @@
-##Name: Chitra Kakkar
-##Class: SEIS-610
-##Project Name: SEIS-CrazyEight 
+# Name: Chitra Kakkar
+# Class: SEIS-610
+# Project Name: SEIS-CrazyEight 
 
-#Vision:
+# Vision:
 
 This card game is to learn to generate a number of different ideas within a short period of time. This 
 basically keeps the mind engaged in panning strategies to discard all your cards. The goal is to push beyond your first idea, 
 frequently the least innovative, and to generate a wide variety of solutions to the challenge.  
 
-#Limitations
+
+
+# Limitations
 
 This application will be currently written in Java so after the product is finished, the game can only be played on devices
 that support java.  This application originally will not support cloud-based
 data storage.  This application will, at its first release, only be a single player.
 
-#SEIS-CrazyEight Rules and Instructions: The basic game
+
+# SEIS-CrazyEight Rules and Instructions: The basic game
 
 1. The basic game of Crazy Eights uses a standard 52 card pack, or two such packs shuffled together if there are a lot of players. 
 2. The dealer deals (singly) five cards to each player (seven each if there are only two players). 
@@ -29,6 +32,8 @@ data storage.  This application will, at its first release, only be a single pla
 11.The first player who gets rid of all their cards wins, and the other players score penalty points according to the cards they have left in their hands - 50 for an eight, 10      for a picture, and spot cards at face value (one point for an ace, two for a two and so on).
 12.If the stock pile is exhausted, the played cards, except for the last card, are shuffled and stacked face down to make a new stock and the game continues.
 
-#Features of CrazyEight:
 
-#User Stories:
+
+# Features of CrazyEight:
+
+# User Stories:
