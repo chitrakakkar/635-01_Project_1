@@ -1,5 +1,3 @@
-# Name: Chitra Kakkar
-# Class: SEIS-610
 # Project Name: SEIS-CrazyEight 
 
 # Vision:
@@ -14,10 +12,10 @@ frequently the least innovative, and to generate a wide variety of solutions to 
 
 This application will be currently written in Java so after the product is finished, the game can only be played on devices
 that support java.  This application originally will not support cloud-based
-data storage.  This application will, at its first release, only be a single player.
+data storage.  This application will, at its first release, only be a Human and a computer player.
 
 
-# SEIS-CrazyEight Rules and Instructions: The basic game
+# CrazyEight Rules and Instructions: The basic game
 
 1. The basic game of Crazy Eights uses a standard 52 card pack, or two such packs shuffled together if there are a lot of players. 
 2. The dealer deals (singly) five cards to each player (seven each if there are only two players). 
@@ -34,6 +32,33 @@ data storage.  This application will, at its first release, only be a single pla
 
 
 
-# Features of CrazyEight:
+# Features of CrazyEight: (These are not ordered)
+1.  Start Game
+2.  Read Card for human 
+3.  Computer automatically plays.
+4.  Remove cards from the Hands.
+5.  Check Legal Card
+6.  Pick a suit.
+7.  Create a Deck
+8.  Shuffle a Deck.
+9.  Deal Card
+10. Discard Card
+11. Calculate Total Points
+12. Get Players
+13. Nominate a suit.
+13. End Game
+
 
 # User Stories:
+1. As a player, I would like a game to help me to take quick decisions and become efficient. 
+2. As a player, I would like to choose how can I get rid of my cards by strategically planning the rules of the game.
+3. As a player, I should be asked if I would like to start the game or not.
+4. As a player, I would like the software to distribute each players seven cards face down.
+5. As a player, I would like the remainder of the pack is stacked face down on the table as a stock from which cards will be drawn. (#3)
+6. As a player, I would like the top card of the stock is turned face up and placed beside the stock to start the discard pile. (#4)
+7. As a player, I would like to know the current suit being played all the time.( the suit frequently changes as the game progresses)
+8. As a player, I would like to select one card and have the program displays them and then indicate if it matches the rank or suit of the previous card(#6)
+9. As a player, if the cards in my hand don't match the suit on the board, the software allows me to pick the cards from the deck of cards untill I find the match.
+10. As a player, If I play an Eight, the software allows me to nominate a suit and changes the suit display on the board to the chosen suit by the player who played an Eight.
+11. As a player, I would like the software to keep track of how quickly I get rid of my cards in handso that I know I am thinking quickly and efficiently finishing the game, possibly winning the game everytime. 
+12. As a player, I would like the software to tell me who wins the game at the end.
